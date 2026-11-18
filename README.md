@@ -33,6 +33,12 @@ The project focuses on engineering a reliable, lightweight, and scrutineering-co
 * Conducted motion and interference studies in SolidWorks to map out smooth cable routing from the interior lever location to the rear bike brake assembly.
 * Utilized grooved sheaves/pulleys to eliminate high-friction contact points with the chassis and evenly distribute bending loads across the cable.
 
+* **CAD**
+* <img width="1600" height="766" alt="image" src="https://github.com/user-attachments/assets/99e5b0c3-dada-4b7b-a400-04be25fa43d6" />
+* <img width="1041" height="822" alt="image" src="https://github.com/user-attachments/assets/4bc3407a-d241-4589-b8df-29267aa98999" />
+*<img width="1147" height="871" alt="image" src="https://github.com/user-attachments/assets/c7d9901f-5a56-4d21-8acd-9cdf4dcedaa7" />
+
+
 
 
 ## Engineering Challenge & Resolution
@@ -47,6 +53,10 @@ The project focuses on engineering a reliable, lightweight, and scrutineering-co
 
 
 * **Scrutineering Compliance:** Optimized passing margins and mechanical reliability to ensure the parking brake meets safety regulations.
+
+* **Design Justifications:**
+* <img width="1533" height="690" alt="image" src="https://github.com/user-attachments/assets/372a5025-b618-45f8-b284-ec5f4d4425b4" />
+*<img width="1459" height="760" alt="image" src="https://github.com/user-attachments/assets/8bc9ed5d-585f-4618-866b-945be5399df9" />
 
 
 ## Team & Collaboration
