@@ -10,26 +10,19 @@ The project focuses on engineering a reliable, lightweight, and scrutineering-co
 
 
 ## Key Features & Design Components
-
-* **Hand-Cranked Winch System:**
+**Hand-Cranked Winch System:**
   
 * Designed a custom winding mechanism and pulley setup inspired by high-tension cable systems (such as volleyball net cranks).
 * Integrated a secure locking mechanism to maintain continuous cable tension and prevent accidental unwinding.
 * Transitioned toward commercial cable winch solutions featuring spring-loaded pawls and gear locking to optimize weight, safety, and reliability.
 
 
-
-
-* **Anti-Slip Two-Piece Chassis Clamp:**
-  
+**Anti-Slip Two-Piece Chassis Clamp:**
 * Engineered a robust split-clamp architecture to mount securely onto the vehicle's chassis tubes.
 * Designed to prevent sliding or rotation along the frame under high tension, providing a stable platform for components.
 
 
-
-
-* **Optimized Pulley & Cable Routing:**
-  
+**Optimized Pulley & Cable Routing:**
 * Conducted motion and interference studies in SolidWorks to map out smooth cable routing from the interior lever location to the rear bike brake assembly.
 * Utilized grooved sheaves/pulleys to eliminate high-friction contact points with the chassis and evenly distribute bending loads across the cable.
 
