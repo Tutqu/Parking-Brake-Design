@@ -26,7 +26,7 @@ The project focuses on engineering a reliable, lightweight, and scrutineering-co
 * Conducted motion and interference studies in SolidWorks to map out smooth cable routing from the interior lever location to the rear bike brake assembly.
 * Utilized grooved sheaves/pulleys to eliminate high-friction contact points with the chassis and evenly distribute bending loads across the cable.
 
-##**CAD**
+## CAD
 <img width="1600" height="766" alt="image" src="https://github.com/user-attachments/assets/99e5b0c3-dada-4b7b-a400-04be25fa43d6" />
 <img width="1041" height="822" alt="image" src="https://github.com/user-attachments/assets/4bc3407a-d241-4589-b8df-29267aa98999" />
 <img width="1147" height="871" alt="image" src="https://github.com/user-attachments/assets/c7d9901f-5a56-4d21-8acd-9cdf4dcedaa7" />
